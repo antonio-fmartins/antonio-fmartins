@@ -18,6 +18,7 @@ My ability to visualize how different elements fit together became an asset when
 <h5>Conclusion: Looking to the Future:</h5>
 My 12+ year journey in the world of ocular optics has given me a unique perspective on the importance of vision and clarity. Now, as I navigate the exciting transition to web development, I feel excited to bring that same clarity to the digital experiences I create. While they may seem like separate fields, optics and web development share the pursuit of excellence and continuous improvement. Looking ahead, I am excited to see how my two passions continue to intertwine, creating a unique and exciting path in my professional journey.
 
+
 - 🌱 I’m currently learning Oracle SQL
 - 📫 How to reach me: antonio.fmartins@icloud.com
 - 😄 Pronouns: He/Him
