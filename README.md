@@ -1,14 +1,22 @@
 ### Hello! I'm António Martins...  👋
 
-Over the past 12 years, I have had the amazing opportunity to immerse myself in the world of optics and the optical laboratory, honing my skills and knowledge in this field. My journey began with a passion for the science behind vision and a desire to contribute to the improvement of people's quality of life through vision correction.
-My career in ocular optics began with obtaining a diploma in Optical Technician and Ocular Optics Management. During my studies, I learned about ocular anatomy, diagnosis of vision problems and the science behind corrective lenses. After graduation, I had the opportunity to work in several opticians, where I could deepen my knowledge and develop my patient care skills.
-However, it was in the optical laboratory that I found my true passion. Working in ophthalmic lens development and manufacturing allowed me to explore the technology behind the lenses, from the choice of materials to the cutting, grinding and coating processes. The precision and attention to detail required in this environment taught me the importance of meticulous work and the constant pursuit of perfection.
-During all these years in ocular optics, I was challenged to solve complex vision problems, understand individual patient needs and provide personalized solutions. This experience honed my ability to communicate and empathize, skills I now find invaluable in any field.
-Recently, I decided to make a career transition to become a web developer. This decision was not taken lightly; it was the result of a growing fascination with the digital world and technology. While working in optics, I began to realize how technology was transforming the industry, from vision testing apps to e-commerce solutions for eyewear.
-I started my career transition journey by learning programming on my own and attending online courses. I found that many of the skills I developed in optics, such as problem solving and meticulous approach, were transferable to web development. The ability to understand user needs also proved crucial, as did the ability to create customized solutions to meet those needs.
-My career transition is underway, and although I am leaving behind ocular optics and the optical lab, I will carry with me the valuable lessons and skills I have gained over the years. My experience in optics has enriched my understanding of science and technology, and I am excited about the possibilities the field of information technology and web development has to offer.
-This journey not only demonstrates my adaptability and willingness to embrace new challenges, but also highlights how a passion for learning and growing continues to be a constant in my professional life.
+Over the course of more than a decade, I have delved deep into the world of ocular optics and the optical lab, honing my understanding of the visual intricacies and technologies behind the lens. However, recently, I embarked on an exciting career transition journey to become a web developer. In this account, I share how my passion for optics has influenced my career and how I am applying my optical skills in this new technological domain.
 
+The Beginning of the Optics Journey:
+Over 12 years ago, I entered the world of ocular optics with an overwhelming curiosity for how our eyes perceive the world. Working in an optical lab allowed me to explore the nuances of lenses, materials and ophthalmic prescriptions. With each pair of glasses I helped create, I gained a deeper understanding of the science behind corrected vision.
+
+Mastering the Art of Optics:
+Over the years, I became an expert at lens recommendations, analyzing complex prescriptions, and solving unique optical challenges. My ability to translate technical information into understandable language has led to customers trusting me to guide them in their lens choices. My passion for precision and the pursuit of the best visual experience shaped every customer interaction.
+
+The Turn to Web Development:
+As I continued to hone my optical skills, the world of technology called to me in unexpected ways. Fascinated by the intersection of creativity and code, I began exploring web development on my own. I quickly realized that many principles I applied in optics - such as attention to detail, problem solving, and a focus on user experience - were transferable to this new field.
+
+Applying Optical Skills to Web Development:
+My ability to visualize how different elements fit together became an asset when creating attractive layouts and interfaces. Understanding customer needs, cultivated by years in the optical lab, now helps me create customized digital solutions. In addition, my passion for precision has translated into writing clean and efficient code, ensuring that each "line of code" is as sharp as a well-polished lens.
+
+
+<h1>Conclusion: Looking to the Future:</h1>
+My 12+ year journey in the world of ocular optics has given me a unique perspective on the importance of vision and clarity. Now, as I navigate the exciting transition to web development, I feel excited to bring that same clarity to the digital experiences I create. While they may seem like separate fields, optics and web development share the pursuit of excellence and continuous improvement. Looking ahead, I am excited to see how my two passions continue to intertwine, creating a unique and exciting path in my professional journey.
 
 - 🌱 I’m currently learning Oracle SQL
 - 📫 How to reach me: antonio.fmartins@icloud.com
