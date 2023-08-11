@@ -1,6 +1,6 @@
 ### Hello! I'm António Martins...  👋
 
-Over the course of more than a decade, I have delved deep into the world of ocular optics and the optical lab, honing my understanding of the visual intricacies and technologies behind the lens. However, recently, I embarked on an exciting career transition journey to become a web developer. In this account, I share how my passion for optics has influenced my career and how I am applying my optical skills in this new technological domain.
+Over the course of more than a decade, I have delved deep into the world of ocular optics and the optical lab, honing my understanding of the visual intricacies and technologies behind the lens. However, recently, I embarked on an exciting career transition journey to become a web developer. 
 
 <h5>The Beginning of the Optics Journey:</h5>
 Over 12 years ago, I entered the world of ocular optics with an overwhelming curiosity for how our eyes perceive the world. Working in an optical lab allowed me to explore the nuances of lenses, materials and ophthalmic prescriptions. With each pair of glasses I helped create, I gained a deeper understanding of the science behind corrected vision.
